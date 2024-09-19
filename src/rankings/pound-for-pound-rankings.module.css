@@ -1,0 +1,6 @@
+.ranking {
+    display: flex;
+    direction: column;
+    font-size: 30px;
+    justify-content: center;
+}
